@@ -15,17 +15,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://dominickm.com/wp-content/uploads/2016/06/spring-boot-logo_full-150x150.png" height="30" alt="Springboot logo"  />
+  <img width="12" />
+  <img src="https://www.vhv.rs/dpng/d/459-4590974_logo-java-programming-language-hd-png-download.png" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://clipground.com/images/mysql-logo-clipart-9.jpg" height="30" alt="mysqql logo"  />
   <img width="12" />
 </div>
 
